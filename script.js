@@ -14,17 +14,3 @@ setInterval (function () {
   bodyElem.style.color = RndmColor
   document.body.style.backgroundColor = RndmColor1
 }, 1000)
-
-let master = {
-  name : 'omid',
-  family : 'shahini',
-  age : 29,
-  job : 'programmer',
-  knowledge : 'entry level',
-  skill : 'fronend',
-  eye : 'brown',
-  haircolor : 'dark',
-  height : 175,
-  favouritecolor : 'blue',
-  nationality : 'persian'
-}
